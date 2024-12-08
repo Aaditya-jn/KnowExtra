@@ -1,7 +1,6 @@
 # KnowExtra
 
 ```
-
  In Python, the ++ operator is not defined as a binary operator. It's a common misconception, especially for those coming from languages like C++ or Java where ++ is used for incrementing.
 
 
