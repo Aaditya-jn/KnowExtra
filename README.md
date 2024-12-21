@@ -48,12 +48,17 @@ THIS IS CORRECT
 
 ```
 
-x = 2 2
-print(x)
+Suppose I write a variable and assign it a string value
 
-This is an invalid syntax error in python
+flavour = "Apple Pie"
 
-It is a logic check question in a book and it iz well good question.
+print(flavour[:])
+Above code will return me the full string flavour
+
+But unlike Indexing , python will not raise any TypeError if we exceed the limit of the index in the box bracket.
+
+print(flavour[:100])
+THIS WILL ALSO RETURN ME THE FULL STRING flavour.
 
 ```
 
